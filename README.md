@@ -39,7 +39,8 @@ Gradify combines adaptive MCQ testing with interest–logic mapping and an AI fe
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs to illustrate how Gradify works — homepage, assessment, results)*
+<img width="1605" height="877" alt="image" src="https://github.com/user-attachments/assets/9233686b-d870-475a-806b-dd5db2da6748" />
+
 
 ---
 
